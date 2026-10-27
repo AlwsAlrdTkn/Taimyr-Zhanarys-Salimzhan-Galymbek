@@ -1,0 +1,8 @@
+{
+    "products": [
+        { "id": 1, "name": "Штука, 1 шт", "price": 123, "image": "https://avatars.mds.yandex.net/i?id=e41808e82c06e7c14952e906fa0f17e4_sr-12714643-images-thumbs&n=13" },
+        { "id": 2, "name": "Мёд натуральный, 1 л", "price": 456, "image": "https://avatars.mds.yandex.net/i?id=e41808e82c06e7c14952e906fa0f17e4_sr-12714643-images-thumbs&n=13" },
+        { "id": 3, "name": "Что-то сьедобное, 1 кг", "price": 789, "image": "https://avatars.mds.yandex.net/i?id=e41808e82c06e7c14952e906fa0f17e4_sr-12714643-images-thumbs&n=13" },
+        { "id": 4, "name": "???", "price": "???", "image": "https://avatars.mds.yandex.net/i?id=e41808e82c06e7c14952e906fa0f17e4_sr-12714643-images-thumbs&n=13" }
+    ]
+}
